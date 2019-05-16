@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sizelist>
+    <list>
+        <cids>2,6,8,14,16,34,42,43,45,48,73,91,92,93,116</cids>
+        <item>
+            <name>XS</name>
+            <list>XS,6,25</list>
+        </item>
+        <item>
+            <name>S</name>
+            <list>S,8,26,S 7 Days For Preparation,70A,70B,70C</list>
+        </item>
+        <item>
+            <name>M</name>
+            <list>M,10,27,M 7 Days For Preparation,75A,75B,75C</list>
+        </item>
+        <item>
+            <name>L</name>
+            <list>L,12,28,L 7 Days For Preparation,80A,80B,80C</list>
+        </item>
+        <item>
+            <name>XL</name>
+            <list>XL 7 Days For Preparation,XL,14,29,85A,85B,85C</list>
+        </item>
+        <item>
+            <name>XXL</name>
+            <list>XXL,16,30,XXL 7 Days For Preparation</list>
+        </item>
+        <item>
+            <name>XXXL</name>
+            <list>XXXL,31</list>
+        </item>
+        <item>
+            <name>XXXXL</name>
+            <list>XXXXL,32</list>
+        </item>
+    </list>
+    <list>
+        <cids>59,60,62,63,77</cids>
+        <item>
+            <name>34</name>
+            <list>34</list>
+        </item>
+        <item>
+            <name>35</name>
+            <list>35</list>
+        </item>
+        <item>
+            <name>36</name>
+            <list>36</list>
+        </item>
+        <item>
+            <name>37</name>
+            <list>37</list>
+        </item>
+        <item>
+            <name>38</name>
+            <list>38</list>
+        </item>
+        <item>
+            <name>39</name>
+            <list>39</list>
+        </item>
+        <item>
+            <name>40</name>
+            <list>40</list>
+        </item>
+    </list>
+</sizelist>
